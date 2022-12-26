@@ -6,7 +6,7 @@ Create Main Screen where we see background, game title and following buttons:
 - Rules Button. (Opens a pop-up window with "How to Play" info)
 - Author. (Opens a pop-up window with Authors name)
 
-Create Character Selection Screen where we see background, gametitle, chosen characters portrait and bio and follwoing buttons:
+Create Character Selection Screen where we see background, game title, chosen characters portrait and bio and follwoing buttons:
 - Back. (Takes back to Main Screen)
 - Conitnue (Should be Disabled)
-- 1,2,3 buttons that switch netween characters' portraits and bios.
+- 1,2,3 buttons that switch between characters' portraits and bios.
