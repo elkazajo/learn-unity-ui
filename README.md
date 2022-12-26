@@ -1,5 +1,5 @@
 # learn-unity-ui
-Practical work on creating UI in Unity.
+My practical home work on creating UI in Unity.
 # Assignments
 Create Main Screen where we see background, game title and following buttons:
 - Start Game. (Opens character selection screen)
